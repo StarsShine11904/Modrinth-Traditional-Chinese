@@ -143,7 +143,7 @@
     "Security Notice": "安全聲明",
     Interact: "互動",
     "X (Twitter)": "X (推特)",
-    "Get Modrinth App": "取得 Modrinth 應用",
+    "Get Modrinth App": "取得 Modrinth 應用程式",
     "Sign in": "登入",
     "Sign up": "註冊",
     "Sign in with": "使用以下方式登入",
