@@ -286,6 +286,8 @@
     "User Agreement": "使用者協議",
     "Sign In": "登入",
     "Sign Up": "註冊",
+    "Change or remove the password used to login to your account.": "變更或移除用於登入您帳戶的密碼。",
+    "Change password": "設定密碼",
     "Forgot Password?": "忘記密碼？",
     "Reset Password": "重設密碼",
     "Change Email": "更改電子郵件",
