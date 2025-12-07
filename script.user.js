@@ -19,7 +19,7 @@
   const translations = {
     "Discover content": "發現內容",
     "Host a server": "託管伺服器",
-    "Modrinth App": "Modrinth 應用",
+    "Modrinth App": "Modrinth 應用程式",
     "New project": "新建項目",
     "New collection": "新建收藏夾",
     "New organization": "新建組織",
@@ -519,13 +519,13 @@
     Appearance: "外觀",
     "Color theme": "顏色主題",
     "Select your preferred color theme for Modrinth on this device.":
-      "在此設備上為 Modrinth 選擇您喜歡的顏色主題。",
+      "在此裝置上為 Modrinth 選擇您喜歡的顏色主題。",
     "Sync with system": "與系統同步",
     Light: "淺色",
     Dark: "深色",
     "Project list layouts": "項目列表布局",
     "Select your preferred layout for each page that displays project lists on this device.":
-      "為該設備上顯示項目列表的每個頁面選擇您喜歡的布局。",
+      "為該裝置上顯示項目列表的每個頁面選擇您喜歡的布局。",
     Rows: "列表",
     Grid: "網格",
     "Mods page": "模組頁面",
@@ -536,17 +536,17 @@
     "Modpacks page": "模組包頁面",
     "User profile pages": "使用者個人資料頁面",
     "Toggle features": "切換功能",
-    "Advanced rendering": "高級渲染",
-    "Open external links in new tab": "在新標籤頁中打開外部連結",
+    "Advanced rendering": "進階渲染",
+    "Open external links in new tab": "在新增分頁中打開外部連結",
     "Right-aligned filters sidebar on search pages":
       "搜尋頁面上右對齊的過濾器側邊欄",
     "Left-aligned sidebar on content pages": "內容頁左對齊側邊欄",
     "Enable or disable certain features on this device.":
-      "啟用或禁用此設備上的某些功能。",
+      "啟用或停用此裝置上的某些功能。",
     "Enables advanced rendering such as blur effects that may cause performance issues without hardware-accelerated rendering.":
-      "啟用高級渲染（例如模糊效果），如果沒有硬體加速渲染，可能會導致性能問題。",
+      "啟用進階渲染（例如模糊效果），如果沒有硬體加速渲染，可能會導致性能問題。",
     "Make links which go outside of Modrinth open in a new tab. No matter this setting, links on the same domain and in Markdown descriptions will open in the same tab, and links on ads and edit pages will open in a new tab.":
-      "讓 Modrinth 之外的連結在新標籤頁中打開。無論此設定如何，同一域名和 Markdown 描述中的連結都會在同一個標​​簽頁中打開，而廣告和編輯頁面上的連結則會在新標籤頁中打開。",
+      "讓 Modrinth 之外的連結在新增分頁中打開。無論此設定如何，同一域名和 Markdown 描述中的連結都會在同一個標​​簽頁中打開，而廣告和編輯頁面上的連結則會在新增分頁中打開。",
     "Aligns the filters sidebar to the right of the search results.":
       "將過濾器側邊欄與搜尋結果的右側對齊。",
     "Aligns the sidebar to the left of the page's content.":
@@ -579,10 +579,10 @@
     "Two-factor authentication": "2FA驗證",
     "Setup two-factor authentication": "設定2FA驗證",
     "Setup 2FA": "設定2FA",
-    "Manage authentication providers": "管理身份驗證提供程序",
-    "Authentication providers": "身份驗證提供程序",
-    "Manage providers": "管理提供程序",
-    Provider: "提供程序",
+    "Manage authentication providers": "管理身份驗證應用程式",
+    "Authentication providers": "身份驗證應用程式",
+    "Manage providers": "管理應用程式",
+    Provider: "應用程式",
     Add: "添加",
     Remove: "刪除",
     "Data export": "資料導出",
@@ -599,7 +599,7 @@
     "Add an additional layer of security to your account during login.":
       "在登入期間為您的帳戶添加額外的安全層。",
     "Two-factor authentication keeps your account secure by requiring access to a second device in order to sign in.":
-      "2FA驗證要求存取第二台設備才能登入，從而確保您的帳戶安全。",
+      "2FA驗證要求存取第二台裝置才能登入，從而確保您的帳戶安全。",
     "Scan the QR code with": "使用",
     ", or any other 2FA app to begin.":
       "或任何其他 2FA 應用掃描QR code即可開始。",
@@ -611,13 +611,13 @@
       "請求取得您已上傳至 Modrinth 的所有個人資料的副本。這可能需要幾分鐘才能完成。",
     "Once you delete your account, there is no going back. Deleting your account will remove all attached data, excluding projects, from our servers.":
       "帳戶一旦刪除，將無法恢復。刪除帳戶將從我們的伺服器中刪除所有附加資料（項目除外）。",
-    "Authorized apps": "授權應用",
+    "Authorized apps": "授權應用程式程式程式",
     "You have not authorized any applications.": "您尚未授權任何應用程式。",
     "When you authorize an application with your Modrinth account, you grant it access to your account. You can manage and review access to your account here at any time.":
       "當您使用 Modrinth 帳戶授權某個應用程式時，即表示您授予該應用程式存取您帳戶的權限。您可以隨時在此管理和查看您帳戶的存取權限。",
     Sessions: "會話",
     "Here are all the devices that are currently logged in with your Modrinth account. You can log out of each one individually.\n\nIf you see an entry you don't recognize, log out of that device and change your Modrinth account password immediately.":
-      "以下是當前使用您的 Modrinth 帳戶登入的所有設備。您可以逐個退出。\n\n如果您看到不認識的條目，請立即退出該設備並更改您的 Modrinth 帳戶密碼。",
+      "以下是當前使用您的 Modrinth 帳戶登入的所有裝置。您可以逐個退出。\n\n如果您看到不認識的條目，請立即退出該裝置並更改您的 Modrinth 帳戶密碼。",
     "Current session": "當前會話",
     "Billing and subscriptions": "計費和訂閱",
     Subscriptions: "訂閱",
