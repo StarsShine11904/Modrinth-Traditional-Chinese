@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         Modrinth-ChineseTranslated
+// @name         Modrinth-Traditional-Chinese
 // @namespace    http://tampermonkey.net/
-// @version      0.2.5
-// @description  一個漢化Modrinth網頁的的腳本，將 Modrinth 網站的內容翻譯成中文。
-// @author       YlovexLN
+// @version      1
+// @description  讓Modrinth繁中化！
+// @author       Stars Shine
 // @match        https://modrinth.com/*
 // @grant        none
 // @license      GPL-3.0
-// @downloadURL https://update.greasyfork.org/scripts/526366/Modrinth-ChineseTranslated.user.js
-// @updateURL https://update.greasyfork.org/scripts/526366/Modrinth-ChineseTranslated.meta.js
-// @supportURL https://github.com/YlovexLN/Modrinth-ChineseTranslated/issues
+// @downloadURL 
+// @updateURL 
+// @supportURL 
 // ==/UserScript==
 
 (function () {
